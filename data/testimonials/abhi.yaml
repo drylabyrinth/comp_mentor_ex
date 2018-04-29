@@ -1,0 +1,5 @@
+text: "I am an assistant professor between the Departments of Surgery and Biomedical Engineering at Oregon Health and Science University. I build software for integrative analysis of many high-throughput sequencing samples to improve usability and utility of archived data. My tools of choice are in the Hadoop ecosystem, and my flagship product is Rail-RNA, which scales to analyze thousands of RNA sequencing (RNA-seq) samples on Amazon Elastic MapReduce. With collaborators at Johns Hopkins University, I've used Rail-RNA to reanalyze over 70,000 human RNA-seq samples, including publicly available samples on the Sequence Read Archive (SRA) as well as controlled-access samples from The Cancer Genome Atlas (TCGA) and the Genotype-Tissue Expression (GTEx) project. Check out our papers: the largest study of transcriptomic variation to date and recount, a resource that facilitates reuse of existing RNA-seq data. ."
+name: "Abhinav Nellore"
+position: "Assistant Professor"
+department: "Surgery/Biomedical Engineering"
+avatar: "img/testimonials/abhi-headshot.png"
